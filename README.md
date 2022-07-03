@@ -1,7 +1,7 @@
 # oms-rest-client #
 Order Management System (OMS) REST Util
 
-[![oms-rest-client release (latest SemVer)](https://img.shields.io/github/v/release/google/oms-rest-client?sort=semver)](https://github.com/sofiukl/oms-rest-client/releases)
+[![oms-rest-client release (latest SemVer)](https://img.shields.io/github/v/release/sofiukl/oms-rest-client?sort=semver)](https://github.com/sofiukl/oms-rest-client/releases)
 [![GoDoc](https://img.shields.io/static/v1?label=godoc&message=reference&color=blue)](https://pkg.go.dev/github.com/sofiukl/oms-rest-client/)
 
 oms-rest-client is a Go client library for rest call.
