@@ -26,7 +26,7 @@ will resolve and add the package to the current development module, along with i
 Alternatively the same can be achieved if you use import in a package:
 
 ```go
-import "github.com/sofiukl/oms-rest-client/rest-util"
+import "restutil github.com/sofiukl/oms-rest-client/rest-util"
 ```
 
 and run `go get` without parameters.
